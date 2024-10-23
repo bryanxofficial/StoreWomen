@@ -17,10 +17,5 @@ This project is a full-stack e-commerce website designed for selling watches onl
 - **Server**: Apache (with XAMPP or MAMP for local development)
 - **Version Control**: Git, GitHub
 
-## Installation
 
-To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ClaseE-commerce.git
